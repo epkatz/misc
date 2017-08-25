@@ -1,0 +1,16 @@
+{
+  "name": "wonder-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nested-callbacks.js"
+  },
+  "author": "epkatz",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  }
+}
